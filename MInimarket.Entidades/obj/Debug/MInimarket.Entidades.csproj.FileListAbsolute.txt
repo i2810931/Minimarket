@@ -1,0 +1,11 @@
+C:\Fio\practica\SolMInimarket\MInimarket.Entidades\bin\Debug\MInimarket.Entidades.dll
+C:\Fio\practica\SolMInimarket\MInimarket.Entidades\bin\Debug\MInimarket.Entidades.pdb
+C:\Fio\practica\SolMInimarket\MInimarket.Entidades\obj\Debug\MInimarket.Entidades.csproj.CoreCompileInputs.cache
+C:\Fio\practica\SolMInimarket\MInimarket.Entidades\obj\Debug\MInimarket.Entidades.dll
+C:\Fio\practica\SolMInimarket\MInimarket.Entidades\obj\Debug\MInimarket.Entidades.pdb
+D:\proyectos\SolMInimarket\MInimarket.Entidades\bin\Debug\MInimarket.Entidades.dll
+D:\proyectos\SolMInimarket\MInimarket.Entidades\bin\Debug\MInimarket.Entidades.pdb
+D:\proyectos\SolMInimarket\MInimarket.Entidades\obj\Debug\MInimarket.Entidades.csproj.AssemblyReference.cache
+D:\proyectos\SolMInimarket\MInimarket.Entidades\obj\Debug\MInimarket.Entidades.csproj.CoreCompileInputs.cache
+D:\proyectos\SolMInimarket\MInimarket.Entidades\obj\Debug\MInimarket.Entidades.dll
+D:\proyectos\SolMInimarket\MInimarket.Entidades\obj\Debug\MInimarket.Entidades.pdb
